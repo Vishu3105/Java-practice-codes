@@ -1,4 +1,4 @@
-# Java coding Questions for interviews Repository
+# Java coding Questions for interviews
 
 Welcome! This repository contains my **top 20 Java coding questions** along with their solutions in different methods and explanations. It's meant for practice, revision, and reference for anyone preparing for Java interviews.
 
